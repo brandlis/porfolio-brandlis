@@ -1,24 +1,34 @@
 {
   "basics": {
-    "name": "John Doe",
+    "name": "Brand Vargas Lis",
     "label": "Programmer",
-    "image": "",
-    "email": "john@gmail.com",
-    "phone": "(912) 555-4321",
-    "url": "https://johndoe.com",
+    "image": "/me.webp",
+    "email": "bevargas10@gmail.com",
+    "phone": "(+57) 320 2145651 ",
+    "url": "",
     "summary": "A summary of John Doe…",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Calle 61 22 30",
+      "postalCode": "",
+      "city": "Neiva",
+      "countryCode": "COL",
+      "region": "Huila"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "john",
-        "url": "https://twitter.com/john"
+        "network": "X",
+        "username": "brand",
+        "url": "https://twitter.com/BrandVargasLis"
+      },
+      {
+        "network": "GitHub",
+        "username": "brand",
+        "url": "https://github.com/brandlis"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "brand",
+        "url": "https://www.linkedin.com/in/brand-vargas-lis-b117a9251/"
       }
     ]
   },
